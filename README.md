@@ -1,2 +1,2 @@
 # fMRI_project1
-This repository processes and analyzes fMRI data to extract time-series signals from the ventral posterior parietal cortex (vPPC) and primary visual cortex (V1) using the Craddock brain atlas. It includes code for loading, processing, and visualizing fMRI data from multiple participants.
+This repository contains an R script for analyzing preprocessed resting-state fMRI data from individuals under the influence of LSD. The analysis focuses on investigating the functional connectivity between the primary visual cortex (V1) and the ventral posterior cingulate cortex (vPCC), which are key regions involved in visual processing and consciousness.
